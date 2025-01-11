@@ -1,20 +1,42 @@
 {
-    "specials": [
-      {
-        "name": "Klassisk Pho",
-        "description": "En smakrik nudelsoppa med ditt val av nötkött, kyckling eller tofu.",
-        "price": "99 kr"
-      },
-      {
-        "name": "Bánh mì",
-        "description": "En vietnamesisk baguette fylld med grillat kött och picklade grönsaker.",
-        "price": "89 kr"
-      },
-      {
-        "name": "Bubble Tea",
-        "description": "En svalkande dryck med tapiokapärlor i olika smaker.",
-        "price": "59 kr"
-      }
-    ]
-  }
-  
+  "specials": [
+    {
+      "name": "Klassisk Pho",
+      "description": "En smakrik nudelsoppa med ditt val av nötkött, kyckling eller tofu.",
+      "price": "99 kr",
+      "image": "pho.png"
+    },
+    {
+      "name": "Bánh mì",
+      "description": "En vietnamesisk baguette fylld med grillat kött och picklade grönsaker.",
+      "price": "89 kr",
+      "image": "banhmi.png"
+    },
+    {
+      "name": "Bubble Tea",
+      "description": "En svalkande dryck med tapiokapärlor i olika smaker.",
+      "price": "59 kr",
+      "image": "bubbletea.png"
+    }
+  ],
+  "items": [
+    {
+      "name": "Klassisk Pho",
+      "description": "En smakrik nudelsoppa med ditt val av nötkött, kyckling eller tofu.",
+      "price": "99 kr",
+      "image": "pho.png"
+    },
+    {
+      "name": "Bánh mì",
+      "description": "En vietnamesisk baguette fylld med grillat kött och picklade grönsaker.",
+      "price": "89 kr",
+      "image": "banhmi.png"
+    },
+    {
+      "name": "Bubble Tea",
+      "description": "En svalkande dryck med tapiokapärlor i olika smaker.",
+      "price": "59 kr",
+      "image": "bubbletea.png"
+    }
+  ]
+}
